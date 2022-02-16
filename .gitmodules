@@ -1,0 +1,12 @@
+[submodule "serverless-todo-app"]
+	path = serverless-todo-app
+	url = git@github.com:Sasa94s/serverless-todo-app.git
+[submodule "udagram-image-filtering-microservice"]
+	path = udagram-image-filtering-microservice
+	url = git@github.com:Sasa94s/udagram-image-filtering-microservice.git
+[submodule "deploy-a-static-website-on-aws"]
+	path = deploy-a-static-website-on-aws
+	url = git@github.com:Sasa94s/deploy-a-static-website-on-aws.git
+[submodule "udagram-app"]
+	path = udagram-app
+	url = git@github.com:Sasa94s/udagram-app.git
